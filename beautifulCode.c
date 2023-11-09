@@ -1,15 +1,13 @@
 #include <stdio.h>
 /*
- * main(void) - Entry point
+ * Entry point - main
  *
- * Description: This is the main function of the program.
- * Prints a message and returns 0 to indicate success.
+ * main() - main function of the program
+ * return (0) - success if return is 0
  *
- * Return: Always 0 (Success)
  */
 int main(void)
 {
-	printf("This is a good code that passes Betty\n");
-return (0);
+	printf("Hello Betty\n");
+	return (0);
 }
-
