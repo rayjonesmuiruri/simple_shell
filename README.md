@@ -1,1 +1,4 @@
-This is a simple shell project
+This is a simple shell project:
+AUTHORS: RAY AND CESS
+LANGUAGE: THE PROJECT IS DONE IN C LANGUAGE.
+
